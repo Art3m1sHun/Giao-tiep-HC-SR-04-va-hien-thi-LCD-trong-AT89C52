@@ -80,10 +80,7 @@ while(1){
 		LCD_Puts("Do dai: ");
 		LCD_PutNumber(khoangcach);
 		LCD_Puts("CM");
-	}
-				if(dem != 1){ 
-				LCD_Clear();
-				break;}
+			}
 		}
 	}
 }
